@@ -8,7 +8,7 @@ date: 2024-10-01
 venue: 'CIKM24'
 slidesurl: #'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3627673.3679598'
-citation: 'Chen, X., Lei, P. I., <strong>Sheng, Y.</strong>, Liu, Y., & Gong, Z. (2024, October). "Social influence learning for recommendation systems." In <i>Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i>, pp. 312–322.'
+citation: 'Chen Ximing, Lei Pui Ieng, <strong>Sheng Yijun</strong>, Liu Yanyan, & Gong Zhiguo*. (2024, October). Social influence learning for recommendation systems. In <i>Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i>, pp. 312–322.'
 ---
 ***Abstract***
 

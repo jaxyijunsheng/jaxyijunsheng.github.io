@@ -7,7 +7,7 @@ excerpt: 'This paper is my second work.'
 date: 2025-02-17
 venue: 'CIKM25'
 paperurl: 'https://doi.org/10.1145/3746252.3761262'
-citation: '<strong>Sheng, Y.</strong>, Lei, P. I.,  Liu, Y., Chen, X., & Gong, Z. (2025, October). "Learning Invariant Reliability under Diverse Contexts for Robust Multimedia Recommendation." In <i>Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i>, in Press.'
+citation: '<strong>Sheng Yijun</strong>, Lei Pui Ieng, Liu Yanyan, Chen Ximing, & Gong Zhiguo*. (2025, October). Learning Invariant Reliability under Diverse Contexts for Robust Multimedia Recommendation. In <i>Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i>, in Press.'
 ---
 ***Abstract***
 

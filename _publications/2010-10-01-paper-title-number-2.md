@@ -8,7 +8,7 @@ date: 2025-7-1
 venue: 'Neurocomputing'
 slidesurl: #'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925231225008513'
-citation: 'Liu, Y., Lei, P., <strong>Sheng, Y.</strong>, Chen, X., & Gong, Z. (2025). "Efficient energy-based neural topic modeling with embeddings." <i>Neurocomputing</i>, 638, 130179.'
+citation: 'Liu Yanyan, Lei Pui Ieng, <strong>Sheng Yijun</strong>, Chen Ximing, & Gong Zhiguo*. (2025). Efficient energy-based neural topic modeling with embeddings. <i>Neurocomputing</i>, 638, 130179.'
 ---
 ***Abstract***
 

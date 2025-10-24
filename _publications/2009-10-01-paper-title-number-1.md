@@ -9,7 +9,7 @@ venue: 'Knowledge-Based Systems'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S095070512500810X'
 bibtexurl: #'https://www.sciencedirect.com/sdfe/arp/cite?pii=S095070512500810X&format=text%2Fx-bibtex&withabstract=true'
-citation: '<strong>Sheng, Y.</strong>, Lei, P., Liu, Y., Chen, X., Xu, Q., & Gong, Z. (2025). "Dual space multi-granular model for multi-interest sequential recommendation." <i>Knowledge-Based Systems</i>.'
+citation: '<strong>Sheng Yijun</strong>, Lei Pui Ieng, Liu Yanyan, Chen Ximing, Xu Qiwen, & Gong Zhiguo*. (2025). Dual space multi-granular model for multi-interest sequential recommendation. <i>Knowledge-Based Systems</i>.'
 #Sheng, Y., Lei, P., Liu, Y., Chen, X., Xu, Q., & Gong, Z. (2025). "Dual space multi-granular model for multi-interest sequential recommendation." <i>Knowledge-Based Systems</i>.
 
 #Chen, X., Lei, P. I., Sheng, Y., Liu, Y., & Gong, Z. (2024, October). "Social influence learning for recommendation systems." In <i>Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i>, pp. 312–322.
