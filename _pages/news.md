@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+-:fire: *2025.11*: One paper has been accepted by KDD 2026. :tada:
+
 -:fire: *2025.08*: Two papers have been accepted for presentation at CIKM 2025. :tada:
 
 -:fire: *2025.05*: One paper has been accepted by Knowledge-Based Systems. :tada:
