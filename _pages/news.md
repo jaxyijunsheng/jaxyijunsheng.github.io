@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+-:fire: *2026.05*: One paper has been accepted by KAIS. :tada:
+
 -:fire: *2026.01*: One paper has been accepted by WWW 2026. :tada:
 
 -:fire: *2025.11*: One paper has been accepted by KDD 2026. :tada:

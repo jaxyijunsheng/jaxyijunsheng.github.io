@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Biography
-I was born in July 1999 in Changde, Hunan Province, China. I received my B.Eng. degree in Automation from **Shandong University**. After graduation, I worked at **China Mobile Internet of Things Co., Ltd.**. Currently, I am pursuing a Ph.D. degree in the research group of [**Prof. Zhiguo Gong**](https://www.fst.um.edu.mo/people/fstzgg/) at the **University of Macau**.
+I was born in July 1999 in Changde, Hunan Province, China. I received my B.Eng. degree in Automation from **Shandong University**. After graduation, I worked at **China Mobile Internet of Things Co., Ltd.**. I received my Ph.D. degree in Computer Science from the **University of Macau**, where I worked in the research group of [**Prof. Zhiguo Gong**](https://fic.um.edu.mo/people/fstzgg/). I am currently a Lecturer at the **College of Information Science and Engineering, Hunan Normal University**.
 
 ## Research Interests
 My research focuses on:

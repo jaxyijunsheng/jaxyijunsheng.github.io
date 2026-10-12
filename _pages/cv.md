@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Macau, 2026 (expected)
+* Ph.D in Computer Science, University of Macau, 2026
 * B.S. in Automation, Shandong University, 2020
 
 Research Interest
@@ -26,6 +26,9 @@ Publications
 
 Work experience
 ======
+* Lecturer
+  * College of Information Science and Engineering, Hunan Normal University
+
 * 2021.01-08: Research Assitant
   * University of Macau
   * Supervisor: Prof. Zhiguo GONG
